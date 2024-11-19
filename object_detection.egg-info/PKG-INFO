@@ -1,5 +1,0 @@
-Metadata-Version: 2.1
-Name: object-detection
-Version: 0.1
-Summary: Tensorflow Object Detection Library
-Requires-Python: >3.6
