@@ -1,6 +1,7 @@
 # Real_Time_Sign_Language_Detection
 
-If you wanted to use NickNochNack's tutorial, make sure to install python 3.8.*.
+If you wanted to use NickNochNack's tutorial, make sure to install python 3.8.* or lower.
+
 Here is the code for making a virtual enviroment in conda: 
 
 [https://github.com/nicknochnack/RealT...
