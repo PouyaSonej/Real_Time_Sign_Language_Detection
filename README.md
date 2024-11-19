@@ -1,7 +1,7 @@
 # Real_Time_Sign_Language_Detection
 
 If you wanted to use NickNochNack's tutorial, make sure to install python 3.8.*.
-Here is the code for conda, write them line by line: 
+Here is the code for making a virtual enviroment in conda: 
 
 [https://github.com/nicknochnack/RealT...
 ](https://github.com/nicknochnack/RealTimeObjectDetection.git)
